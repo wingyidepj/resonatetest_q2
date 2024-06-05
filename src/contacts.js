@@ -1,7 +1,7 @@
 // src/Contacts.js
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import './contacts.css';
+import './Contacts.css';
 
 const Contacts = () => {
     const [contacts, setContacts] = useState([]);
