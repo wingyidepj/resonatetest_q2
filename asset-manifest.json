@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resonatetest_q2/static/css/main.af56d020.css",
+    "main.js": "/resonatetest_q2/static/js/main.1dc4825b.js",
+    "static/js/453.b0314a49.chunk.js": "/resonatetest_q2/static/js/453.b0314a49.chunk.js",
+    "index.html": "/resonatetest_q2/index.html",
+    "main.af56d020.css.map": "/resonatetest_q2/static/css/main.af56d020.css.map",
+    "main.1dc4825b.js.map": "/resonatetest_q2/static/js/main.1dc4825b.js.map",
+    "453.b0314a49.chunk.js.map": "/resonatetest_q2/static/js/453.b0314a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af56d020.css",
+    "static/js/main.1dc4825b.js"
+  ]
+}
